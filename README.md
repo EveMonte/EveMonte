@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EveMonte
 - 👀 I’m interested in programming, game design, technologies
-- 🌱 I’m currently learning C#, MSSQL, Unity
+- 🌱 I’m currently learning C#, Unity, Blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
